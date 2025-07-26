@@ -23,7 +23,7 @@ Chess.com에서 특정 사용자명을 우주틱한 파스텔 그라데이션으
 2. **F12** 키를 눌러 개발자 도구 열기
 3. **Console** 탭 클릭
 4. `chesscom_profile_prettier.js` 파일의 내용을 복사해서 붙여넣기:
-```chesscom_profile_prettier
+```chesscom_profile_prettier.js
 (function() {
     const USERNAME = '0xemanedoc';
     const STORAGE_KEY = 'chess_simple_enhancer';
